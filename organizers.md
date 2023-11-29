@@ -61,7 +61,7 @@ show_sidebar: false
  <article class="tile is-parent box">
         <div class="tile is-child is-2">
             <figure class="image">
-                <img src="../img/Daniel Buschek.jpg"/>
+                <img src="../img/Daniel Buschek.jpeg"/>
             </figure>
         </div>
         <div class="tile is-child"  style="padding-left: 2em;">
