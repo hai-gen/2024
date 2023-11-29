@@ -57,6 +57,44 @@ show_sidebar: false
             </p>
         </div>
     </article>    
+
+ <article class="tile is-parent box">
+        <div class="tile is-child is-2">
+            <figure class="image">
+                <img src="../img/Daniel Buschek.jpg"/>
+            </figure>
+        </div>
+        <div class="tile is-child"  style="padding-left: 2em;">
+            <p class="title">Daniel Buschek</p>
+            <p class="subtitle">University of Bayreuth, Germany</p>
+            <p class="content">Daniel Buschek is a Professor of Mobile Intelligent User Interfaces at the University of Bayreuth, Germany. His group
+works at the intersection of Human-Computer Interaction and AI, exploring interaction with models for text and
+images to shape the future of AI tools in a human-centred way</p>
+            <p>
+                <span class="icon is-medium"><a href="https://www.hciai.uni-bayreuth.de/"><i class="fas fa-lg fa-home"></i></a></span>
+                <span class="icon is-medium"><a href="https://twitter.com/DBuschek"><i class="fab fa-lg fa-twitter-square"></i></a></span>
+            </p>
+        </div>
+    </article>
+    
+<article class="tile is-parent box">
+        <div class="tile is-child is-2">
+            <figure class="image">
+                <img src="../img/lydia.jpg"/>
+            </figure>
+        </div>
+        <div class="tile is-child"  style="padding-left: 2em;">
+            <p class="title">Lydia B. Chilton</p>
+            <p class="subtitle">Columbia University, New York</p>
+            <p class="content">Lydia is an Assistant Professor in the Computer Science Department at Columbia University. She is an early pioneer in decomposing complex tasks so that crowds and computers can solve them together. Her current research is in computational design - how computation and AI can help people with design, innovation, and creative problem-solving. Applications include: conveying a message visually for journalism and advertising, developing technology for public libraries, improving risk communication during hurricanes, and helping scientists explain their work on Twitter. Lydia was a co-organizer of <a href="https://hai-gen2020.github.io/">HAI-GEN 2020</a>, <a href="https://hai-gen2021.github.io">HAI-GEN 2021</a>, and <a href="https://hai-gen.github.io/2022">HAI-GEN 2022</a>.</p>
+            <p>
+                <span class="icon is-medium"><a href="http://www.cs.columbia.edu/~chilton/"><i class="fas fa-lg fa-home"></i></a></span>
+                <span class="icon is-medium"><a href="https://twitter.com/hmslydia"><i class="fab fa-lg fa-twitter-square"></i></a></span>
+            </p>
+        </div>
+    </article>
+
+    <!--
     <article class="tile is-parent box">
         <div class="tile is-child is-2">
             <figure class="image">
@@ -70,22 +108,9 @@ show_sidebar: false
             <p><span class="icon is-medium"><a href="http://hendrik.strobelt.com"><i class="fas fa-lg fa-home"></i></a></span></p>
         </div>
     </article>
-    <article class="tile is-parent box">
-        <div class="tile is-child is-2">
-            <figure class="image">
-                <img src="../img/lydia.jpg"/>
-            </figure>
-        </div>
-        <div class="tile is-child"  style="padding-left: 2em;">
-            <p class="title">Lydia B. Chilton</p>
-            <p class="subtitle">Columbia University</p>
-            <p class="content">Lydia is an Assistant Professor in the Computer Science Department at Columbia University. She is an early pioneer in decomposing complex tasks so that crowds and computers can solve them together. Her current research is in computational design - how computation and AI can help people with design, innovation, and creative problem-solving. Applications include: conveying a message visually for journalism and advertising, developing technology for public libraries, improving risk communication during hurricanes, and helping scientists explain their work on Twitter. Lydia was a co-organizer of <a href="https://hai-gen2020.github.io/">HAI-GEN 2020</a>, <a href="https://hai-gen2021.github.io">HAI-GEN 2021</a>, and <a href="https://hai-gen.github.io/2022">HAI-GEN 2022</a>.</p>
-            <p>
-                <span class="icon is-medium"><a href="http://www.cs.columbia.edu/~chilton/"><i class="fas fa-lg fa-home"></i></a></span>
-                <span class="icon is-medium"><a href="https://twitter.com/hmslydia"><i class="fab fa-lg fa-twitter-square"></i></a></span>
-            </p>
-        </div>
-    </article>
+-->
+    
+    
 <!--     <article class="tile is-parent box">
         <div class="tile is-child is-2">
             <figure class="image">
