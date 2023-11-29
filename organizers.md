@@ -132,17 +132,4 @@ images to shape the future of AI tools in a human-centred way.</p>
 
 # Program Committee
 To be announced
-<!--
-* Maya Ackerman, Santa Clara University
-* Daniel Buschek, University of Bayreuth
-* Katy Gero, Columbia University
-* Kazjon Grace, The University of Sydney
-* Anna Huang, Google
-* Ryan Louie, Northwestern University
-* Brian Magerko, Georgia Tech
-* Charles Martin, Australian National University
-* Michael Muller, IBM Research AI
-* Jeba Rezwana, University of North Carolina, Charlotte
-* Steven Ross, IBM Research AI
-* Dan Ventura, Brigham Young University
--->
+
