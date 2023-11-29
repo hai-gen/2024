@@ -9,6 +9,25 @@ show_sidebar: false
 # Organizing Committee
 
 <div class="tile is-ancestor is-vertical">
+<article class="tile is-parent box">
+        <div class="tile is-child is-2">
+            <figure class="image">
+                <img src="../img/werner.jpg"/>
+            </figure>
+        </div>
+        <div class="tile is-child" style="padding-left: 2em;">
+            <p class="title">Werner Geyer</p>
+            <p class="subtitle">IBM Research AI</p>
+            <p class="content">Werner is a Principal Research Staff Member and Research Manager at IBM Research in Cambridge, MA, where he is leading a research team centered around AI Interaction technologies. He's been holding various roles as co-chair at ACM RecSys, including general chair as well as a series of workshops and tutorials on Social Recommender Systems. More recently, his team is exploring generative modelling techniques in business settings. Werner was a co-organizer of <a href="https://hai-gen2020.github.io/">HAI-GEN 2020</a>, <a href="https://hai-gen2021.github.io">HAI-GEN 2021</a>, and <a href="https://hai-gen.github.io/2022">HAI-GEN 2022</a>.</p>
+            <p>
+                <span class="icon is-medium"><a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-Werner.Geyer"><i class="fas fa-lg fa-home"></i></a></span>
+                <span class="icon is-medium"><a href="https://twitter.com/wernergeyer"><i class="fab fa-lg fa-twitter-square"></i></a></span>
+            </p>
+        </div>
+    </article>
+
+
+    
     <article class="tile is-parent box">
         <div class="tile is-child is-2">
             <figure class="image">
@@ -80,29 +99,15 @@ show_sidebar: false
             <p><span class="icon is-medium"><a href="https://people.csail.mit.edu/davidbau/"><i class="fas fa-lg fa-home"></i></a></span></p>
         </div>
     </article> -->
-    <article class="tile is-parent box">
-        <div class="tile is-child is-2">
-            <figure class="image">
-                <img src="../img/werner.jpg"/>
-            </figure>
-        </div>
-        <div class="tile is-child" style="padding-left: 2em;">
-            <p class="title">Werner Geyer</p>
-            <p class="subtitle">IBM Research AI</p>
-            <p class="content">Werner is a Principal Research Staff Member and Research Manager at IBM Research in Cambridge, MA, where he is leading a research team centered around AI Interaction technologies. He's been holding various roles as co-chair at ACM RecSys, including general chair as well as a series of workshops and tutorials on Social Recommender Systems. More recently, his team is exploring generative modelling techniques in business settings. Werner was a co-organizer of <a href="https://hai-gen2020.github.io/">HAI-GEN 2020</a>, <a href="https://hai-gen2021.github.io">HAI-GEN 2021</a>, and <a href="https://hai-gen.github.io/2022">HAI-GEN 2022</a>.</p>
-            <p>
-                <span class="icon is-medium"><a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-Werner.Geyer"><i class="fas fa-lg fa-home"></i></a></span>
-                <span class="icon is-medium"><a href="https://twitter.com/wernergeyer"><i class="fab fa-lg fa-twitter-square"></i></a></span>
-            </p>
-        </div>
-    </article>
+    
 </div>
 
-<p>Email the organizing committee at <a href="mailto:haigen2023@googlegroups.com">haigen2023 [at] googlegroups.com</a></p>
+<p>Email the organizing committee at <a href="mailto:werner.geyer@us.ibm.com">werner.geyer [at] us.ibm.com</a></p>
 
 
 # Program Committee
-
+To be announced
+<!--
 * Maya Ackerman, Santa Clara University
 * Daniel Buschek, University of Bayreuth
 * Katy Gero, Columbia University
@@ -115,3 +120,4 @@ show_sidebar: false
 * Jeba Rezwana, University of North Carolina, Charlotte
 * Steven Ross, IBM Research AI
 * Dan Ventura, Brigham Young University
+-->
