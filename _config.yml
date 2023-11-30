@@ -55,7 +55,7 @@ defaults:
       type: "pages"
     values:
       show_sidebar: true
-      hero_image: https://hai-gen.github.io/2024/img/img/104577_abstract.png
+      hero_image: https://hai-gen.github.io/2024/img/104577_abstract.png
   -
     scope:
       path: ""
