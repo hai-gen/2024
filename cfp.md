@@ -31,7 +31,11 @@ All papers will undergo a single-blind peer review (i.e. author names and affili
 
 A workshop summary will be included in the ACM Digital Library for IUI 2024. Although papers and demos are not part of the archival ACM IUI proceedings, the papers accepted at IUI workshops 2024 will be published in common proceedings via CEUR-WS (see [https://ceur-ws.org/Vol-3359/](https://ceur-ws.org/Vol-3359/) for last year’s workshop proceedings). 
 
-Please follow the CEUR guidelines for the single column paper template ([download the CEUR template](https://drive.google.com/file/d/1F9Nllrmhu6gUuYDdl-svxqwd5AW5NmZY/view). This year, submissions must be a minimum of five pages (including references) to be published in CEUR (see [https://ceur-ws.org/HOWTOSUBMIT.html](https://ceur-ws.org/HOWTOSUBMIT.html) for details).
+**Papers & Demos**
+Please follow the CEUR guidelines for the single column paper template ([download the CEUR template](https://drive.google.com/file/d/1F9Nllrmhu6gUuYDdl-svxqwd5AW5NmZY/view). The length should be no less than 5 pages for papers and demos, and no more than 10 maximum to be published in CEUR (see [https://ceur-ws.org/HOWTOSUBMIT.html](https://ceur-ws.org/HOWTOSUBMIT.html) for details).
+
+**Posters**
+We also encourage submissions of non-archival, extended abstracts for our poster session. Note that those abstracts will not be published in CEUR. The length should be two pages and follow the same CEUR guidelines outlined above.
 
 Please submit your papers & demos to EasyChair by January 16, 2024:
 [https://easychair.org/my/conference?conf=haigen2024](https://easychair.org/my/conference?conf=haigen2024)
