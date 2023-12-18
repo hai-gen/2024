@@ -1,6 +1,6 @@
 ---
 title: Call for Participation
-subtitle: Papers & Demos
+subtitle: Papers, Demos, Posters
 layout: page
 show_sidebar: true
 ---
