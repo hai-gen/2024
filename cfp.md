@@ -39,7 +39,7 @@ Please follow the CEUR guidelines for the single column paper template ([downloa
 
 We also encourage submissions of non-archival, extended abstracts for our poster session. Note that those abstracts will not be published in CEUR. The length should be two pages and follow the same CEUR guidelines outlined above.
 
-Please submit your papers & demos to EasyChair by January 16, 2024:
+Please submit your papers, demos, and poster abstracts to EasyChair by January 16, 2024:
 [https://easychair.org/my/conference?conf=haigen2024](https://easychair.org/my/conference?conf=haigen2024)
 
 
