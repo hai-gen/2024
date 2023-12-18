@@ -19,4 +19,4 @@ The central questions of our workshop are: How do we design, implement, and eval
 
 # Submissions
 
-Submissions will take the form of papers and demos, following CEUR publication guidelines. Please see the [Call for Participation](cfp) for relevant topics and submission instructions.
+Submissions will take the form of papers & demos (to be published with CEUR) as well as non-archival extended abstracts for our poster session. All submission types should be following CEUR publication guidelines. Please see the [Call for Participation](cfp) for relevant topics and submission instructions.
