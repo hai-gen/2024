@@ -131,12 +131,12 @@ images to shape the future of AI tools in a human-centred way.</p>
 
 
 # Program Committee
-** John Joon Young Chung, University of Michigan
-** Kaz Grace, The University of Sydney 
-** Sebastian Gehrmann, Bloomberg
-** Ryan Louie, Stanford University
-** Nick Martelato, Carnegie Mellon University
-** Michael Muller, IBM Research
-** Koray Tahiroglu, Aalto University
-** Dan Ventura, Brigham Young University
+* John Joon Young Chung, University of Michigan
+* Kaz Grace, The University of Sydney 
+* Sebastian Gehrmann, Bloomberg
+* Ryan Louie, Stanford University
+* Nick Martelato, Carnegie Mellon University
+* Michael Muller, IBM Research
+* Koray Tahiroglu, Aalto University
+* Dan Ventura, Brigham Young University
 
