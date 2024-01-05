@@ -134,6 +134,7 @@ images to shape the future of AI tools in a human-centred way.</p>
 * John Joon Young Chung, University of Michigan
 * Kaz Grace, The University of Sydney 
 * Sebastian Gehrmann, Bloomberg
+* Yiren Liu, University of Illinois Urbana-Champaign
 * Ryan Louie, Stanford University
 * Nick Martelato, Carnegie Mellon University
 * Michael Muller, IBM Research
