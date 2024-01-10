@@ -139,7 +139,8 @@ images to shape the future of AI tools in a human-centred way.</p>
 * Brian Magerko, Georgia Tech
 * Nick Martelato, Carnegie Mellon University
 * Michael Muller, IBM Research
-* Jeba Rezwana, UNCC
+* Jeba Rezwana, The University of North Carolina at Charlotte
+* Steve Ross, IBM Research
 * Koray Tahiroglu, Aalto University
 * Dan Ventura, Brigham Young University
 
