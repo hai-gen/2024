@@ -7,7 +7,7 @@ show_sidebar: true
 ---
 
 <div class="notification is-light">
-    <p><strong>Nov 21</strong>: We're back! We will be hosting the 5th Workshop on Human-AI Co-Creation with Generative Models at IUI 2024! More details coming soon.</p>
+    <p><strong>Jan 9</strong>: Mauro Martino, an Italian American artist, designer, and researcher renowned for pioneering work in the integration of art, data, and artificial intelligence, will be our <a href="https://hai-gen.github.io/2024/program/">keynote speaker</a>.</p>
 </div>
 
 # Workshop Description
