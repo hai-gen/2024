@@ -13,6 +13,23 @@ show_sidebar: false
         <p class="subtitle"><a href="https://mamartino.com/">https://mamartino.com/</a></p>
         <p class="subtitle"><a href="https://urbanaverba.com/">https://urbanaverba.com/</a></p>
 
+        <div x-data="{ open: false }">
+                <a @click="open = true" title="View large image">
+                <!-- <figure class="image is-4by3"> -->
+                <figure class="image">
+                    <img src="https://hai-gen.github.io/2024/img/MFF_MM_02.jpg" alt="Urbana Verba">
+                </figure>
+                </a>
+        <div class="modal" :class="{ 'is-active': open }">
+            <div class="modal-background" @click="open = false"></div>
+            <div class="modal-content">
+            
+                <img src="https://hai-gen.github.io/2024/img/MFF_MM_02.jpg" alt="Urbana Verba">
+    
+            </div>
+            <button class="modal-close is-large" aria-label="close" @click="{ open = false }"></button>
+        </div>
+      </div>
         <h3>Urbana Verba - Generative Urban Cinema</h3>
             <p>In my work at the intersection of art and artificial intelligence,
             I have delved into the potential of generative cinema to reinterpret and recount our cities in entirely novel ways. 
@@ -28,25 +45,7 @@ show_sidebar: false
     
         
 
-    <div class="column is-6">     
-      <div x-data="{ open: false }">
-        <a @click="open = true" title="View large image">
-        <!-- <figure class="image is-4by3"> -->
-        <figure class="image">
-            <img src="https://hai-gen.github.io/2024/img/MFF_MM_02.jpg" alt="Urbana Verba">
-        </figure>
-        </a>
-        <div class="modal" :class="{ 'is-active': open }">
-            <div class="modal-background" @click="open = false"></div>
-            <div class="modal-content">
-            
-                <img src="https://hai-gen.github.io/2024/img/MFF_MM_02.jpg" alt="Urbana Verba">
-            
-            </div>
-            <button class="modal-close is-large" aria-label="close" @click="{ open = false }"></button>
-        </div>
-      </div>
-                
+    <div class="column is-6">      
         <h4>Bio</h4>
         <p>Mauro Martino is an Italian American artist, designer, and researcher renowned for pioneering work in the integration 
         of art, data, and artificial intelligence. As founder of IBM Research's Visual Artificial Intelligence Lab and Professor of 
