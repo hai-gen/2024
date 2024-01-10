@@ -136,8 +136,10 @@ images to shape the future of AI tools in a human-centred way.</p>
 * Sebastian Gehrmann, Bloomberg
 * Yiren Liu, University of Illinois Urbana-Champaign
 * Ryan Louie, Stanford University
+* Brian Magerko, Georgia Tech
 * Nick Martelato, Carnegie Mellon University
 * Michael Muller, IBM Research
+* Jeba Rezwana, UNCC
 * Koray Tahiroglu, Aalto University
 * Dan Ventura, Brigham Young University
 
