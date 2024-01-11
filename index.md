@@ -7,6 +7,7 @@ show_sidebar: true
 ---
 
 <div class="notification is-light">
+    <p><strong>Jan 11</strong>: Submission deadline for papers, posters and demos has been extended to January 19!!!</p>
     <p><strong>Jan 9</strong>: Mauro Martino, an Italian American artist, designer, and researcher renowned for pioneering work in the integration of art, data, and artificial intelligence, will be our <a href="https://hai-gen.github.io/2024/program/">keynote speaker</a>.</p>
 </div>
 
