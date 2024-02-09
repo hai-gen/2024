@@ -131,9 +131,11 @@ images to shape the future of AI tools in a human-centred way.</p>
 
 
 # Program Committee
-* John Joon Young Chung, University of Michigan
-* Kaz Grace, The University of Sydney 
+* John Joon Young Chung, Midjourney
+* Hai Dang, University of Bayreuth
+* Florian Fischer, University of Bayreuth
 * Sebastian Gehrmann, Bloomberg
+* Kazjon Grace, The University of Sydney
 * Yiren Liu, University of Illinois Urbana-Champaign
 * Ryan Louie, Stanford University
 * Brian Magerko, Georgia Tech
@@ -143,4 +145,5 @@ images to shape the future of AI tools in a human-centred way.</p>
 * Steve Ross, IBM Research
 * Koray Tahiroglu, Aalto University
 * Dan Ventura, Brigham Young University
+* Tim Zindulka, University of Bayreuth
 
