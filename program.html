@@ -6,71 +6,65 @@ show_sidebar: false
 ---
 
 <h1>Keynote Speaker</h1>
-        
+
 <div class="columns box">
     <div class="column is-10">
         <h3>Mauro Martino</h3>
         <p>
-                <a href="https://mamartino.com/">https://mamartino.com/</a><br>
-                <a href="https://urbanaverba.com/">https://urbanaverba.com/</a>
+            <a href="https://mamartino.com/">https://mamartino.com/</a><br>
+            <a href="https://urbanaverba.com/">https://urbanaverba.com/</a>
         </p>
-
         <div x-data="{ open: false }">
-                <a @click="open = true" title="View large image">
+            <a @click="open = true" title="View large image">
                 <!-- <figure class="image is-4by3"> -->
                 <figure class="image">
                     <img src="https://hai-gen.github.io/2024/img/MFF_MM_02.jpg" alt="Urbana Verba">
                 </figure>
-                </a>
-        <div class="modal" :class="{ 'is-active': open }">
-            <div class="modal-background" @click="open = false"></div>
-            <div class="modal-content">
-            
-                <img src="https://hai-gen.github.io/2024/img/MFF_MM_02.jpg" alt="Urbana Verba">
-    
+            </a>
+            <div class="modal" :class="{ 'is-active': open }">
+                <div class="modal-background" @click="open = false"></div>
+                <div class="modal-content">
+                    <img src="https://hai-gen.github.io/2024/img/MFF_MM_02.jpg" alt="Urbana Verba">
+                </div>
+                <button class="modal-close is-large" aria-label="close" @click="{ open = false }"></button>
             </div>
-            <button class="modal-close is-large" aria-label="close" @click="{ open = false }"></button>
         </div>
-      </div>
         <h3>Urbana Verba - Generative Urban Cinema</h3>
-            <p>In my work at the intersection of art and artificial intelligence,
-            I have delved into the potential of generative cinema to reinterpret and recount our cities in entirely novel ways. 
-            My latest project, 'Urbana Verba,' endeavors to capture the essence of metropolises through the discerning eye of AI, 
-            transforming literature, architecture and art into audiovisual experiences. 'Milan Factory of Future' is the inaugural 
-            execution of this project, a distinct expression that pays homage to the city of Milan. This city, as described and 
-            experienced by writers and artists who have immortalized its soul in their writings, is reborn in my work of Co-Creation 
-            with Generative Models. Words extracted from the works of these Milanese authors are the cornerstone from which AI draws 
-            to generate the video, creating a bridge between the tangibility of urban life and its literary intangibility. I invite 
-            you to immerse yourself in this multisensory experience, where each frame is a dialogue between the actual city and the 
-            imaginative universe so magnificently evoked by its writers and artists.</p>
-
+        <p>In my work at the intersection of art and artificial intelligence, I have delved into the potential of
+            generative cinema to reinterpret and recount our cities in entirely novel ways. My latest project, 'Urbana
+            Verba,' endeavors to capture the essence of metropolises through the discerning eye of AI, transforming
+            literature, architecture and art into audiovisual experiences. 'Milan Factory of Future' is the inaugural
+            execution of this project, a distinct expression that pays homage to the city of Milan. This city, as
+            described and experienced by writers and artists who have immortalized its soul in their writings, is reborn
+            in my work of Co-Creation with Generative Models. Words extracted from the works of these Milanese authors
+            are the cornerstone from which AI draws to generate the video, creating a bridge between the tangibility of
+            urban life and its literary intangibility. I invite you to immerse yourself in this multisensory experience,
+            where each frame is a dialogue between the actual city and the imaginative universe so magnificently evoked
+            by its writers and artists.</p>
         <h3>Bio</h3>
-                <p>Mauro Martino is an Italian American artist, designer, and researcher renowned for pioneering work in the integration 
-                of art, data, and artificial intelligence. As founder of IBM Research's Visual Artificial Intelligence Lab and Professor of 
-                Practice at Northeastern University, Martino has significantly influenced the fields of data visualization and AI art. Notably, 
-                his recent project 'Strolling Cities', showcased at the 2021 Venice Biennale, marked the first artistic instance of poetry readings 
-                transformed into real-time film, enriching the relationship between language, technology, and visual art. Further exemplifying Martino's 
-                groundbreaking lyrics to video approach are his exhibits NFT Revolution (September 2022) at MEET | Digital Culture Center in Milan, 
-                Exercises in Style (March 2023) displayed at the BCA Center in Burlington, Milano - Factory of Future in Malpensa Airport (September 2023) 
-                all compelling intersections of AI text to video technology and music.</p>
+        <p>Mauro Martino is an Italian American artist, designer, and researcher renowned for pioneering work in the
+            integration of art, data, and artificial intelligence. As founder of IBM Research's Visual Artificial
+            Intelligence Lab and Professor of Practice at Northeastern University, Martino has significantly influenced
+            the fields of data visualization and AI art. Notably, his recent project 'Strolling Cities', showcased at
+            the 2021 Venice Biennale, marked the first artistic instance of poetry readings transformed into real-time
+            film, enriching the relationship between language, technology, and visual art. Further exemplifying
+            Martino's groundbreaking lyrics to video approach are his exhibits NFT Revolution (September 2022) at MEET |
+            Digital Culture Center in Milan, Exercises in Style (March 2023) displayed at the BCA Center in Burlington,
+            Milano - Factory of Future in Malpensa Airport (September 2023) all compelling intersections of AI text to
+            video technology and music.</p>
     </div>
-    
-
 </div>
 
 
 <h1>Workshop Program</h1>
-TBD
-<!--
-<p>Times are primarily listed in Australian Eastern Daylight Time (UTC+11). Additional times are shown for Coordinated
-    Universal Time (UTC), Eastern Daylight Time (UTC-4), and Pacific Daylight Time (UTC-7). <strong>Please note that the
-        workshop date of March 27th may correspond to March 26th in your local timezone.</strong></p>
+<p>Times are listed in Eastern Daylight Time (UTC-4).</p>
 
+<!--
 <div class="notification is-light">
     <p>Workshop proceedings have been published in CEUR: <a
             href="https://ceur-ws.org/Vol-3359/">https://ceur-ws.org/Vol-3359/</a></p>
 </div>
-
+-->
 
 <div class="columns box">
     <table class="table is-fullwidth">
@@ -80,144 +74,153 @@ TBD
         </thead>
         <tbody>
             <tr>
-                <td><strong>6am</strong> AEDT
-                    <br /><span class="time"><strong>3/26 7pm</strong> UTC</span>
-                    <br /><span class="time"><strong>3/26 3pm</strong> UTC-4</span>
-                    <br /><span class="time"><strong>3/26 12pm</strong> UTC-7</span>
-                </td>
+                <td><strong>9:00am</strong></td>
                 <td>
                     <p><strong>Welcome</strong></p>
-                    <p>Opening remarks from Mary Lou Maher</p>
+                    <p>Opening remarks from Werner Geyer &amp; organizing committee</p>
                 </td>
             </tr>
             <tr>
-                <td><strong>6:10am</strong> AEDT
-                    <br /><span class="time"><strong>3/26 7:10pm</strong> UTC</span>
-                    <br /><span class="time"><strong>3/26 3:10pm</strong> UTC-4</span>
-                    <br /><span class="time"><strong>3/26 12:10pm</strong> UTC-7</span>
-                </td>
+                <td><strong>9:10am</strong></td>
                 <td>
-                    <p><strong>Breakout Rooms</strong>: Icebreaker Activity</p>
+                    <p><strong>Keynote</strong>: <a href="https://mamartino.com/">Mauro Martino</a> &mdash; Urbana Verba
+                        &ndash; Generative Urban Cinema</p>
+                    <p>Introduction by Werner Geyer</p>
                 </td>
             </tr>
             <tr>
-                <td><strong>6:15am</strong> AEDT
-                    <br /><span class="time"><strong>3/26 7:15pm</strong> UTC</span>
-                    <br /><span class="time"><strong>3/26 3:15pm</strong> UTC-4</span>
-                    <br /><span class="time"><strong>3/26 12:15pm</strong> UTC-7</span>
-                </td>
+                <td><strong>10:10am</strong></td>
                 <td>
-                    <p><strong>Keynote</strong>: <a href="https://philippschmitt.com">Philipp Schmitt</a> &mdash; The
-                        Chair Project: Generative Models as Automatism</p>
-                    <p>Introduction by Hendrik Strobelt</p>
+                    <p><strong>Icebreaker Activity</strong></p>
                 </td>
             </tr>
             <tr>
-                <td><strong>7:15am</strong> AEDT
-                    <br /><span class="time"><strong>3/26 8:15pm</strong> UTC</span>
-                    <br /><span class="time"><strong>3/26 4:15pm</strong> UTC-4</span>
-                    <br /><span class="time"><strong>3/26 1:15pm</strong> UTC-7</span>
-                </td>
+                <td><strong>10:30am</strong></td>
                 <td>
-                    <p><strong>Session 1</strong>: Exploring Interaction with Generative AI</p>
-                    <p>Chair: Lydia Chilton</p>
+                    <p><strong>Coffee Break</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>10:45am</strong></td>
+                <td>
+                    <p><strong>Session 1</strong>: Co-Creative Applications &amp; Studies</p>
+                    <p>Chair: Mike Desmond</p>
                     <ul>
-                        <li>Mattias Rost and Sebastian Andreasson. <a
-                                href="../papers/7513-paper-HAIGEN-RostMattias.pdf">Stable Walk: An interactive
-                                environment for exploring Stable Diffusion outputs</a></li>
-                        <li>Shuoyang Zheng. <a href="../papers/2838-paper-HAIGEN-ZhengShuoyang.pdf">StyleGAN-Canvas:
-                                Augmenting StyleGAN3 for Real-Time Human-AI Co-Creation</a></li>
-                        <li>Juan Salamanca, Daniel Gómez-Marín, and Sergi Jordà. <a
-                                href="../papers/2358-paper-HAIGEN-SalamancaJuan.pdf">The Dynamic Creativity of
-                                Proto-artifacts in Generative Computational Co-creation</a></li>
-                        <li>Ibukun Olatunji. <a href="../papers/1594-paper-HAIGEN-OlantunjiTunde.pdf">Why try to build a
-                                co-creative poetry system that makes people feel that they have "creative
-                                superpowers"?</a></li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td><strong>8:15am</strong> AEDT
-                    <br /><span class="time"><strong>3/26 9:15pm</strong> UTC</span>
-                    <br /><span class="time"><strong>3/26 5:15pm</strong> UTC-4</span>
-                    <br /><span class="time"><strong>3/26 2:15pm</strong> UTC-7</span>
-                </td>
-                <td>
-                    <p><strong>Breakout Rooms</strong>: Discussion Activity</p>
-                </td>
-            </tr>
-            <tr>
-                <td><strong>8:30am</strong> AEDT
-                    <br /><span class="time"><strong>3/26 9:30pm</strong> UTC</span>
-                    <br /><span class="time"><strong>3/26 5:30pm</strong> UTC-4</span>
-                    <br /><span class="time"><strong>3/26 2:30pm</strong> UTC-7</span>
-                </td>
-                <td>
-                    <p><strong>Session 2</strong>: Research and Design Issues in Human-AI Interaction</p>
-                    <p>Chair: Werner Geyer</p>
-                    <ul>
-                        <li>Yiren Liu, Mengxia Yu, Meng Jiang, and Yun Huang. <a
-                                href="../papers/2021-paper-HAIGEN-LiuYiren.pdf">Creative Research Question Generation
-                                for Human-Computer Interaction Research</a></li>
-                        <li>Steven I. Ross, Michael Muller, Fernando Martinez, Stephanie Houde, and Justin D. Weisz. <a
-                                href="../papers/9320-paper-HAIGEN-RossSteven.pdf">A Case Study in Engineering a
-                                Conversational Programming Assistant's Persona</a>
+                        <li>Gabriel E. Gonzalez, Dario Andres Silva Moran, Stephanie Houde, Jessica He, Steven I. Ross,
+                            Michael Muller, Siya Kunde and Justin D. Weisz.
+                            <a href="../papers/1541-Gonzalez.pdf">Collaborative Canvas: A Tool for Exploring LLM Use in
+                                Group Ideation Tasks</a>
                         </li>
-                        <li>Jeba Rezwana and Mary Lou Maher. <a href="../papers/3786-paper-HAIGEN-RezwanaJeba.pdf">User
-                                Perspectives of the Ethical Dilemmas of Ownership, Accountability, Leadership in
-                                Human-AI Co-Creation</a></li>
-                        <li>Justin D. Weisz, Michael Muller, Jessica He, and Stephanie Houde. <a
-                                href="../papers/1272-paper-HAIGEN-WeiszJustin.pdf">Toward General Design Principles for
-                                Generative AI Applications</a></li>
+                        <li>Orit Shaer, Angelora Cooper, Andrew Kun and Osnat Mokryn.
+                            <a href="../papers/5881-ShaerOrit.pdf">Toward Enhancing Ideation through Collaborative
+                                Group-AI Brainwriting</a>
+                        </li>
+                        <li>Jiho Kim, Ray C. Flanagan, Noelle E. Haviland, Ze Ai Sun, Souad N. Yakubu, Edom A. Maru and
+                            Kenneth C. Arnold.
+                            <a href="../papers/9904-Kim.pdf">Towards Full Authorship with AI: Supporting Revision with
+                                AI-Generated Views</a>
+                        </li>
+                        <li>Mohammad Hassany, Peter Brusilovsky, Jiaze Ke, Kamil Akhuseyinoglu and Arun Balajiee Lekshmi
+                            Narayanan.
+                            <a href="../papers/9685-Hassany.pdf">Human-AI Co-Creation of Worked Examples for Programming
+                                Classes</a>
+                        </li>
+                        <li>Bekzat Tilekbay, Saelyne Yang, Michal Lewkowicz, Alex Suryapranata and Juho Kim.
+                            <a href="../papers/7484-Tilekbay.pdf">ExpressEdit: Video Editing with Natural Language and
+                                Sketching</a>
+                        </li>
+                        <li>Chen He, Robin Welsch and Giulio Jacucci.
+                            <a href="../papers/5681-He.pdf">A Pilot Study Comparing ChatGPT and Google Search in
+                                Supporting Visualization Insight Discovery</a>
+                        </li>
+                        <li>Philip Feldman, Aaron Dant and James Foulds.
+                            <a href="../papers/7094-Feldman.pdf">Killer Apps: Low-Speed, Large-Scale AI Weapons</a>
+                        </li>
                     </ul>
                 </td>
             </tr>
             <tr>
-                <td><strong>9:30am</strong> AEDT
-                    <br /><span class="time"><strong>3/26 10:30pm</strong> UTC</span>
-                    <br /><span class="time"><strong>3/26 6:30pm</strong> UTC-4</span>
-                    <br /><span class="time"><strong>3/26 3:30pm</strong> UTC-7</span>
-                </td>
+                <td><strong>12:10pm</strong></td>
                 <td>
-                    <p><strong>Panel Discussion</strong>: The Implications of Large Language Models on Human-AI
-                        Co-Creativity</p>
-                    <p>Moderated by Justin Weisz</p>
-                    <p>Panelists: <a href="http://katygero.com">Katy Gero</a>, <a
-                            href="https://www.sydney.edu.au/architecture/about/our-people/academic-staff/kazjon-grace.html">Kaz
-                            Grace</a>, and <a href="https://www.linkedin.com/in/jrezwana005">Jeba Rezwani</a></p>
+                    <p><strong>Poster Session 1</strong></p>
                 </td>
             </tr>
             <tr>
-                <td><strong>9:55am</strong> AEDT
-                    <br /><span class="time"><strong>3/26 10:55pm</strong> UTC</span>
-                    <br /><span class="time"><strong>3/26 6:55pm</strong> UTC-4</span>
-                    <br /><span class="time"><strong>3/26 3:55pm</strong> UTC-7</span>
-                </td>
+                <td><strong>12:30pm</strong></td>
                 <td>
-                    <p><strong>Closing Remarks</strong>
+                    <p><strong>Lunch</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>2:00pm</strong></td>
+                <td>
+                    <p><strong>Session 2</strong>: Co-Creative Frameworks &amp; Artistic Expression</p>
+                    <p>Chair: Mary Lou Maher</p>
+                    <ul>
+                        <li>Jeba Rezwana and Mary Lou Maher.
+                            <a href="../papers/1932-Rezwana.pdf">Conceptual Models as a Basis for a Framework for
+                                Exploring Mental Models of Co-Creative AI</a>
+                        </li>
+                        <li>Max Kreminski, John Joon Young Chung and Melanie Dickinson.
+                            <a href="../papers/0561-Kreminski.pdf">Intent Elicitation in Mixed-Initiative
+                                Co-Creativity</a>
+                        </li>
+                        <li>Manoj Deshpande and Brian Magerko.
+                            <a href="../papers/5120-Deshpande.pdf">Holistic Approach to Design of Generative AI
+                                Evaluations: Insights from the Research Onion Model</a>
+                        </li>
+                        <li>Quan Gu, Yiduo Wang, Xiaoxiao Hu and Orit Shaer.
+                            <a href="../papers/2107-Gu.pdf">Exploring the Impact of Human-AI Collaboration on College
+                                Students' Tangible Creation: Building Poetic Scenes with LEGO Bricks</a>
+                        </li>
+                        <li>Antonio Correia.
+                            <a href="../papers/9659-Correia.pdf">On the Human-AI Metaphorical Interplay for Culturally
+                                Sensitive Generative AI Design in Music Co-Creation</a>
+                        </li>
+                        <li>Halley Young.
+                            <a href="../papers/1165-Young.pdf">Deriving Desirable Artistic Generative Distributions from
+                                Individual Identity Statements</a>
+                        </li>
+                        <li>Ahmed M. Abuzuraiq and Philippe Pasquier.
+                            <a href="../papers/5546-Abuzuraiq.pdf">Towards Personalizing Generative AI with Small Data
+                                for Co-Creation in the Visual Arts</a>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>3:25pm</strong></td>
+                <td>
+                    <p><strong>Poster Session 2</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>3:45pm</strong></td>
+                <td>
+                    <p><strong>Coffee Break</strong></p>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>4:00pm</strong></td>
+                <td>
+                    <p><strong>Discussion &amp; Closing Remarks</strong>
                     <p>Mary Lou Maher</p>
                 </td>
             </tr>
             <tr>
-                <td><strong>10am</strong> AEDT
-                    <br /><span class="time"><strong>3/26 11pm</strong> UTC</span>
-                    <br /><span class="time"><strong>3/26 7pm</strong> UTC-4</span>
-                    <br /><span class="time"><strong>3/26 4pm</strong> UTC-7</span>
-                </td>
+                <td><strong>5:00pm</strong></td>
                 <td>
-                    <p><strong>Workshop End</strong>
+                    <p><strong>Workshop end</strong>
                 </td>
             </tr>
         </tbody>
     </table>
 </div>
--->
-<h1>Workshop Recording</h1>
-TBD
+
 <!--
+<h1>Workshop Recording</h1>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MvxRc2g7KtI" title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen></iframe>
 -->
-
