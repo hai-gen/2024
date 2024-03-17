@@ -7,7 +7,7 @@ show_sidebar: true
 ---
 
 <div class="notification is-light">
-    <p><strong>March 6</strong>: The <a href="program">workshop program</a> has been publshed. See you at IUI!</p>
+    <p><strong>March 6</strong>: The <a href="program">workshop program</a> has been published. See you at IUI!</p>
 </div>
 
 # Workshop Description
